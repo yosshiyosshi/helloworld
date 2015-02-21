@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 らららほんとに無視できる。
 =======
 fdsふぁsdfさ
+=======
+fdさふぁsふぁsfdsふぁsdfさ
+>>>>>>> test/firstBranch
 ほんとに無視できる。
 >>>>>>> test/firstBranch
 からね
